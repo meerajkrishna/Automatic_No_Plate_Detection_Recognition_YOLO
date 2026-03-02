@@ -1,5 +1,4 @@
-# Automatic_No_Plate_Detection_Recognition_YOLO
-<H1 align="center">Automatic Number Plate Detection and Recognition using YOLOv8</H1>
+<H1 align="center">Automatic No. Plate Detection and Recognition using YOLOv8</H1>
 
 
 ## Steps to run Code
